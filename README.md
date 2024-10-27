@@ -11,6 +11,8 @@ Files
 Classes and Methods
 1. BollingerBandsPolicy (in run.py)
 
+![Bollinger Bands Strategy](bollingerbands.jpg) Example of how the strategy should work
+
 This class implements a trading policy using Bollinger Bands, SMA, and correlation analysis. Key parameters include:
 
     Window: The look-back period for calculating SMA and Bollinger Bands.
