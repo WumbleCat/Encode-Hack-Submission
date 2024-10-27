@@ -41,7 +41,3 @@ Dependencies
     numpy: For mathematical computations.
     decimal: For precision in trade quantities.
     collections.deque: For maintaining a rolling window of historical prices.
-
-Usage
-
-This code can be directly used with the Dojo environment for testing trading strategies in a simulated DeFi market. Ensure all necessary classes from dojo are available and initialized for the BollingerBandsPolicy to function.
